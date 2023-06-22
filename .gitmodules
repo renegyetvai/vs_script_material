@@ -1,0 +1,3 @@
+[submodule "lernkarten/automatisiert/src/tools/t2a_converter"]
+	path = lernkarten/automatisiert/src/tools/t2a_converter
+	url = https://github.com/renegyetvai/t2a_converter.git
